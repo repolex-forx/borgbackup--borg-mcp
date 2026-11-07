@@ -1,0 +1,11 @@
+{
+  "org": "borgbackup",
+  "repo": "borg-mcp",
+  "versions": [
+    {
+      "commit": "78b9269f9ff62b3eb4407985cfb72ffa308edcba",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:09:16.537335+00:00"
+    }
+  ]
+}
