@@ -1,0 +1,7 @@
+[2026-11-07T08:07:42Z] === AST ITERATION 1 START | repo=borgbackup/borg-mcp sha=78b9269f ===
+[2026-11-07T08:07:42Z] [iter=1] PHASE START: ast repo=borgbackup/borg-mcp sha=78b9269f
+[2026-11-07T08:07:42Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T08:07:54Z] [iter=1] AST chunks built count=1 triples=117430
+[2026-11-07T08:07:54Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/78b9269f9ff62b3eb4407985cfb72ffa308edcba/.complete
+[2026-11-07T08:07:54Z] [iter=1] PHASE END: ast elapsed_s=12 elapsed_min=0.2
+[2026-11-07T08:07:54Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
