@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/borgbackup/borg-mcp/commit/78b9269f9ff62b3eb4407985cfb72ffa308edcba",
+  "@type": "git:Commit",
+  "git:hexsha": "78b9269f9ff62b3eb4407985cfb72ffa308edcba",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/borgbackup/borg-mcp"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/78b9269f9ff62b3eb4407985cfb72ffa308edcba.nq.gz",
+      "repolex:graphFileSize": 3239
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 3255
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 409
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 1101
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-07T08:06:35.620192+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
